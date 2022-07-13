@@ -12,6 +12,8 @@ Estou cursando o curso de Analise e Desenvolvimento de Sistemas;<br>O objetivo d
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiago514&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago514&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<img href="https://raw.githubusercontent.com/thiago/thiago/blob/output/snake.svg" alt="Snake animation" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
